@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".Attendance">
+
+    <com.wonderkiln.camerakit.CameraView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/cameraView"
+        android:layout_above="@id/detect_face_btn">
+
+    </com.wonderkiln.camerakit.CameraView>
+
+    <com.example.fingerprintauthentication.Helper.GraphicOverlay
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/graphic_overlay"
+        android:layout_above="@id/detect_face_btn"/>
+
+    <Button
+        android:id="@+id/detect_face_btn"
+        android:textColor="#fff"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="DETECT FACE"/>
+
+</RelativeLayout>

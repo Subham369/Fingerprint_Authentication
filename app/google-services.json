@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "65509807684",
+    "firebase_url": "https://biometricattendance-953bd.firebaseio.com",
+    "project_id": "biometricattendance-953bd",
+    "storage_bucket": "biometricattendance-953bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65509807684:android:06ea2b556b31a00e72ce11",
+        "android_client_info": {
+          "package_name": "com.example.biometricattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65509807684-r28mvqc8vg0j74up72h37753lndja5ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biometricattendance",
+            "certificate_hash": "e63649f2de89e559f75329d046eb72220637e9d4"
+          }
+        },
+        {
+          "client_id": "65509807684-21d8cpl72ocj54kp29n3k38uhj82g2mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiitd-IWOxb5Cei_ghfU8UZdXLRn587E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65509807684-21d8cpl72ocj54kp29n3k38uhj82g2mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65509807684:android:125d66aa3a00187072ce11",
+        "android_client_info": {
+          "package_name": "com.example.fingerprintauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65509807684-4nebjf9tga5es3ko3i67tiiemoge2t96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fingerprintauthentication",
+            "certificate_hash": "e63649f2de89e559f75329d046eb72220637e9d4"
+          }
+        },
+        {
+          "client_id": "65509807684-21d8cpl72ocj54kp29n3k38uhj82g2mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiitd-IWOxb5Cei_ghfU8UZdXLRn587E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65509807684-21d8cpl72ocj54kp29n3k38uhj82g2mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
